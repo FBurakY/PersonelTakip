@@ -1,0 +1,15 @@
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\bin\Debug\Gıdaks.exe.config
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\bin\Debug\Gıdaks.exe
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\bin\Debug\Gıdaks.pdb
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.AnaSayfa.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.Form1.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.PersonelEkle.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.PersonelGuncelle.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.Properties.Resources.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.csproj.GenerateResource.Cache
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.exe
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.pdb
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.PersonelBilgiTakip.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.csprojResolveAssemblyReference.cache
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.Personel.resources
+C:\Users\FadılBurak\Documents\Visual Studio 2013\Projects\Gıdaks\Gıdaks\obj\Debug\Gıdaks.PersonelMaas.resources
